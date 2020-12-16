@@ -1,8 +1,10 @@
 ## Hi, I'm Brent! 🤘
 
-🐣 I incubate enterprise payments tech at PayPal. Mostly this means I help create teams, forums, and opportunities for teams to surface and play with new ideas based on discovery of customer and merchant businesses and needs. 
+🐣 I incubate enterprise payments tech at [PayPal (Braintree)](https://braintreepayments.com/). Mostly this means I help create teams, forums, and opportunities for teams to surface and play with new ideas based on discovery of customer and merchant businesses and needs. 
 
-In past work I designed and wrote mobile payments SDKs used in major e-commerce native apps, helped pioneer novel user interfaces, dropped into M+A processes to assess and level teams, and ran programs to promote creative learning and growth for engineers at all levels. In my grad school days I presented work to the MIT community, at conferences like AIGA and CHI, and was sponsored to speak to audiences at international technology companies.
+😎 Pronouns: he/him
+
+📫 I love non-bot emails! Let's correspond.
 
 ### ⚡️ I'd love to chat about...
 - Career paths
@@ -38,11 +40,12 @@ In past work I designed and wrote mobile payments SDKs used in major e-commerce 
 - all of the above
 - Typescript
 - Rust
+- Elixir
+- Clojure
 - PostgreSQL
 - Cloud stacks
 - Containers
 - Machine learning
 
-😎 Pronouns: he/him
 
-📫 I love non-bot emails! Let's correspond.
+
