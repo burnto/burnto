@@ -1,8 +1,10 @@
-## Hi, I'm Brent! 🤘
-
-🐣 I incubate enterprise payments tech at [PayPal (Braintree)](https://braintreepayments.com/). Mostly this means I help create teams, forums, and opportunities for teams to surface and play with new ideas based on discovery of customer and merchant businesses and needs. 
+## Hello, I'm Brent! 🤘
 
 😎 Pronouns: he/him
+
+🌎 I am located in Oakland, California.
+
+🐣 Current focus: I incubate enterprise payments tech at [PayPal (Braintree)](https://braintreepayments.com/). Mostly this means I help create forums, opportunities, and momentum for teams to play with new knowledge and tech.
 
 📫 I love non-bot emails! Let's correspond.
 
@@ -31,21 +33,21 @@
 - VS Code (I'm only mediocre at vim and emacs)
 - Relational databases
 - Simple servers (e.g. nginx)
-- VPS 
+- VPSs 
 - HTML/CSS/templating/frontend
 - Fun graphics programming (e.g. Canvas, P5)
 - Photoshop / Illustrator (and lately Sketch)
 
-### 🌈 I'd love to improve in
+### 🌈 Wishlist of tech/areas I'd like to work more with:
 - all of the above
 - Typescript
-- Rust
 - Elixir
+- Rust
 - Clojure
-- PostgreSQL
-- Cloud stacks
-- Containers
+- Modern cloud stacks
+- Video and audio
+- D3 + Vega-Lite
+- Datasette
+- Realtime collaboration
 - Machine learning
-
-
-
+- Data visualization
