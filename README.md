@@ -6,7 +6,7 @@
 
 🐣 I'm currently taking an independent sabbatical, with a focus on learning about new opportunity areas and emerging technologies and practices.
 
-🕰 I previously incubated enterprise payments tech at [PayPal (Braintree)](https://braintreepayments.com/). Mostly I helped create forums, opportunities, and momentum for teams to play with new knowledge and tech.
+🕰 I previously incubated enterprise payments tech in a big payments company. Mostly I helped create forums, opportunities, and momentum for teams to play with new knowledge and tech.
 
 📫 I love non-bot emails! Let's correspond.
 
