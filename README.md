@@ -2,7 +2,7 @@
 
 😎 Pronouns: he/him
 
-🌎 I am located in Oakland, California.
+🌎 I am located in UST-7/8
 
 🐣 I'm currently taking an independent sabbatical, with a focus on learning about new opportunity areas and emerging technologies and practices.
 
