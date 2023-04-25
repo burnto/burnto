@@ -4,20 +4,17 @@
 
 🌎 I am located in UTC-7/8
 
-🐣 I'm currently taking an independent sabbatical, with a focus on learning about new opportunity areas and emerging technologies and practices.
+🐣 Much of my work is via my experimental blockchain workshop, [Mono Koto](https://mono-koto.com/).
 
 🕰 I previously incubated enterprise payments tech in a big payments company. Mostly I helped create forums, opportunities, and momentum for teams to play with new knowledge and tech.
 
-📫 I love non-bot emails! Let's correspond.
-
 ### 🌈 Current interests include
 
+- Onchain smart contract patterns
+- Data visualization
+- Onchain finance
 - Typescript
-- Dataviz kits like D3, Vega Lite
-- Composable DeFi projects
-- Solidity
 - On/off ramps
 - Cryptocurrencies for real commerce
-- L2 and sidechains
-- Governance models
-- Distributed team patterns
+- Use cases for zero-knowledge proofs
+- Distributed teams
