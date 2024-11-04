@@ -4,9 +4,9 @@
 
 🌎 I am located in UTC-7/8
 
-🐣 Much of my work is via my experimental blockchain workshop, [Mono Koto](https://mono-koto.com/).
+🐣 Much of my work is via my emerging tech workshop, [Mono Koto](https://mono-koto.com/).
 
-🕰 I previously incubated enterprise payments tech in a big payments company. Mostly I helped create forums, opportunities, and momentum for teams to play with new knowledge and tech.
+🕰 Past work has included both early startup roles and enterprise tech. As a builder, I like building towards demos and prototypes. As a leader, I like to create forums, opportunities, and momentum for teams to work in a way that feels like play.
 
 ### 🌈 Current interests include
 
