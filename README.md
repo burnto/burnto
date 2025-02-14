@@ -1,6 +1,6 @@
 ## Hello, I'm burnto! 🤘
 
-😎 Pronouns: he/him
+😎 Pronouns: he/him/they/them
 
 🌎 I am located in UTC-7/8
 
