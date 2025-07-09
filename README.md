@@ -10,11 +10,8 @@
 
 ### 🌈 Current interests include
 
-- Onchain smart contract patterns
-- Data visualization
-- Onchain finance
-- Typescript
-- On/off ramps
-- Cryptocurrencies for real commerce
-- Use cases for zero-knowledge proofs
-- Distributed teams
+- Novel interfaces to LLMs
+- Image generation
+- Graphics and animation
+- Understanding interestingness
+- Code that actually helps people
